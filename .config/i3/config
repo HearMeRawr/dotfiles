@@ -200,6 +200,7 @@ exec hsetroot -add "#c79081" -add "#dfa579" -gradient 0
 exec --no-startup-id "i3-msg 'workspace 10; append_layout ~/.config/i3/workspace-10.json'"
 exec telegram-desktop
 exec google-play-music-desktop-player
+exec discord
 exec --no-startup-id "i3-msg 'workspace 1; append_layout ~/.config/i3/workspace-1.json"
 exec --no-startup-id "i3-msg workspace 1"
 exec hyper
