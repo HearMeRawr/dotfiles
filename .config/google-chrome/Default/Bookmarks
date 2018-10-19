@@ -1,0 +1,51 @@
+{
+   "checksum": "0222974b5c2cc3765173dfd224c5c69c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13183393657004101",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13183393674658591"
+            },
+            "name": "Elite: Dangerous Database - EDDB",
+            "sync_transaction_version": "4",
+            "type": "url",
+            "url": "https://eddb.io/"
+         }, {
+            "date_added": "13183475700919271",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13183476834489023"
+            },
+            "name": "Flying Frog Academy - Better Living Through Movement",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.flyingfrogacademy.com/"
+         } ],
+         "date_added": "13183587582736240",
+         "date_modified": "13183475700919271",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13183587582736242",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [  ],
+         "date_added": "13183587582736243",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

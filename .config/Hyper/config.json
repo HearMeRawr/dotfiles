@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		67,
+		27
+	],
+	"windowSize": [
+		370,
+		741
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hypercwd\",\"hyper-flat\",\"hyper-opacity\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hypercwd\",\"1.2.3\"],[\"hyper-flat\",\"1.2.0\"],[\"hyper-opacity\",\"1.0.0\"]]"
+	}
+}

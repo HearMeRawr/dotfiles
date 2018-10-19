@@ -1,0 +1,49 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 924,
+       "width": 896,
+       "x": 0,
+       "y": 0
+    },
+    "name": "Restore Session - Mozilla Firefox",
+    "percent": 0.7,
+    "swallows": [
+       {
+        "class": "^Firefox$",
+       // "instance": "^Navigator$",
+       // "title": "^Restore\\ Session\\ \\-\\ Mozilla\\ Firefox$",
+       // "transient_for": "^$",
+       // "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 924,
+       "width": 609,
+       "x": 400,
+       "y": 78
+    },
+    "name": "Hyper",
+    "percent": 0.3,
+    "swallows": [
+       {
+        "class": "^Hyper$",
+       // "instance": "^hyper$",
+       // "title": "^Hyper$",
+       // "transient_for": "^$",
+       // "window_role": "^browser\\-window$"
+       }
+    ],
+    "type": "con"
+}
+
